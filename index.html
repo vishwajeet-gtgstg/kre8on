@@ -1,0 +1,10 @@
+---
+layout: default
+title: Kre8on Blog
+---
+{% assign posts = site.pages | where: "dir", "/posts/" | sort: "name" | reverse %}
+{% for p in posts %}
+<div class="post-card">
+<h2><a href="{{ p.url }}">{{ p.name | replace: '.md','' | replace: '-',' ' | truncate: 70 | capitalize }}</a></h2>
+</div>
+{% endfor %}
