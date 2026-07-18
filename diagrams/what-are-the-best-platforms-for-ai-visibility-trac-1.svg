@@ -1,0 +1,26 @@
+<svg viewBox="0 0 800 480" xmlns="http://www.w3.org/2000/svg" style="background-color: #faf8f2;">
+  <text x="400" y="40" font-size="24" text-anchor="middle" font-family="Arial" fill="#1f2a44">AI Visibility Tracking Platforms</text>
+  
+  <rect x="100" y="100" width="200" height="80" rx="15" ry="15" fill="none" stroke="#1f2a44" stroke-width="3"/>
+  <text x="200" y="140" font-size="18" text-anchor="middle" font-family="Arial" fill="#1f2a44">Data Analytics Tools</text>
+  
+  <rect x="300" y="250" width="200" height="80" rx="15" ry="15" fill="none" stroke="#1f2a44" stroke-width="3"/>
+  <text x="400" y="290" font-size="18" text-anchor="middle" font-family="Arial" fill="#1f2a44">Visualization Dashboards</text>
+  
+  <rect x="550" y="100" width="200" height="80" rx="15" ry="15" fill="none" stroke="#1f2a44" stroke-width="3"/>
+  <text x="650" y="140" font-size="18" text-anchor="middle" font-family="Arial" fill="#1f2a44">Monitoring Platforms</text>
+  
+  <rect x="250" y="370" width="300" height="80" rx="15" ry="15" fill="none" stroke="#1f2a44" stroke-width="3"/>
+  <text x="400" y="410" font-size="18" text-anchor="middle" font-family="Arial" fill="#1f2a44">Integrative APIs & Tools</text>
+  
+  <rect x="100" y="250" width="150" height="80" rx="15" ry="15" fill="none" stroke="#1f2a44" stroke-width="3"/>
+  <text x="175" y="290" font-size="18" text-anchor="middle" font-family="Arial" fill="#1f2a44">Feedback Systems</text>
+
+  <line x1="200" y1="180" x2="400" y2="250" stroke="#1f2a44" stroke-width="3" stroke-linecap="round"/>
+  <line x1="450" y1="180" x2="650" y2="140" stroke="#1f2a44" stroke-width="3" stroke-linecap="round"/>
+  <line x1="350" y1="250" x2="400" y2="370" stroke="#1f2a44" stroke-width="3" stroke-linecap="round"/>
+  
+  <polygon points="400,220 410,230 410,210" fill="#1f2a44"/>
+  <polygon points="600,180 610,190 610,170" fill="#1f2a44"/>
+  <polygon points="400,350 390,360 390,340" fill="#1f2a44"/>
+</svg>
