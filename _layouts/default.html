@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>{{ page.title | default: site.title }}</title>
+<meta name="description" content="{{ site.description }}">
+<link rel="stylesheet" href="/assets/css/style.css">
+<link rel="canonical" href="{{ page.url | prepend: site.url }}">
+<meta property="og:title" content="{{ page.title | default: 'Kre8on Blog' }}">
+<meta property="og:description" content="{{ site.description }}">
+<meta property="og:type" content="website">
+<meta property="og:url" content="{{ page.url | prepend: site.url }}">
+</head>
+<body>
+<header class="site-header">
+<h1><a href="/">Kre8on Blog</a></h1>
+<p>{{ site.description }}</p>
+</header>
+<div class="container">
+{{ content }}
+</div>
+<footer class="site-footer">
+<p>By <a href="https://kre8on.com/">Kre8on</a> — AI visibility, AEO &amp; GEO optimization.</p>
+<p><a href="https://kre8on.com/">kre8on.com</a> · <a href="https://dev.to/kre8on">Dev.to</a> · <a href="https://www.linkedin.com/company/kre8on">LinkedIn</a> · <a href="https://mastodon.social/@kre8on">Mastodon</a></p>
+</footer>
+</body>
+</html>
