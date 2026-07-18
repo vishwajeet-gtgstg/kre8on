@@ -1,5 +1,19 @@
 title: Kre8on Blog
-description: AI visibility tracking, answer engine optimization (AEO) & generative engine optimization (GEO) — from Kre8on.
-theme: minima
+description: AI visibility tracking, Answer Engine Optimization (AEO) & Generative Engine Optimization (GEO) from Kre8on.
+theme: jekyll-theme-cayman
 markdown: kramdown
 url: https://blog.kre8on.com
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  - scope:
+      path: "posts"
+      type: "pages"
+    values:
+      layout: "default"
