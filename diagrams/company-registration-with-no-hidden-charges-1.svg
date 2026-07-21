@@ -1,0 +1,27 @@
+<svg viewBox="0 0 800 480" xmlns="http://www.w3.org/2000/svg" style="background-color:#faf8f2;">
+  <text x="50%" y="50" font-family="sans-serif" font-size="24" text-anchor="middle" fill="#1f2a44">Company Registration with No Hidden Charges</text>
+  
+  <g fill="#ffffff" stroke="#1f2a44" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M150 100 Q170 100 190 120 L190 180 Q170 200 150 200 L110 200 Q90 200 90 180 L90 120 Q90 100 110 100 Z" />
+    <text x="150" y="140" font-family="sans-serif" font-size="16" text-anchor="middle" fill="#1f2a44">User Input</text>
+    
+    <path d="M400 100 Q420 100 440 120 L440 180 Q420 200 400 200 L360 200 Q340 200 340 180 L340 120 Q340 100 360 100 Z" transform="rotate(-5 400 150)" />
+    <text x="400" y="140" font-family="sans-serif" font-size="16" text-anchor="middle" fill="#1f2a44">Validation Process</text>
+    
+    <path d="M650 100 Q670 100 690 120 L690 180 Q670 200 650 200 L610 200 Q590 200 590 180 L590 120 Q590 100 610 100 Z" transform="rotate(5 650 150)" />
+    <text x="650" y="140" font-family="sans-serif" font-size="16" text-anchor="middle" fill="#1f2a44">Payment Confirmation</text>
+    
+    <path d="M150 300 Q170 300 190 320 L190 380 Q170 400 150 400 L110 400 Q90 400 90 380 L90 320 Q90 300 110 300 Z" />
+    <text x="150" y="340" font-family="sans-serif" font-size="16" text-anchor="middle" fill="#1f2a44">Registration Complete</text>
+    
+    <path d="M400 300 Q420 300 440 320 L440 380 Q420 400 400 400 L360 400 Q340 400 340 380 L340 320 Q340 300 360 300 Z" transform="rotate(-5 400 350)" />
+    <text x="400" y="340" font-family="sans-serif" font-size="16" text-anchor="middle" fill="#1f2a44">User Confirmation</text>
+  </g>
+  
+  <line x1="190" y1="200" x2="400" y2="200" stroke="#1f2a44" stroke-width="3" stroke-linecap="round" />
+  <line x1="440" y1="200" x2="650" y2="200" stroke="#1f2a44" stroke-width="3" stroke-linecap="round" />
+  <line x1="190" y1="400" x2="400" y2="400" stroke="#1f2a44" stroke-width="3" stroke-linecap="round" />
+  
+  <line x1="400" y1="100" x2="400" y2="180" stroke="#1f2a44" stroke-width="3" stroke-linecap="round" stroke-dasharray="5,5" />
+  <line x1="650" y1="100" x2="650" y2="180" stroke="#1f2a44" stroke-width="3" stroke-linecap="round" stroke-dasharray="5,5" />
+</svg>
