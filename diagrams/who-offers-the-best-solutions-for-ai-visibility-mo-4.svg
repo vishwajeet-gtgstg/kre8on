@@ -1,0 +1,29 @@
+<svg viewBox="0 0 800 480" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background-color: #faf8f2;">
+  <text x="400" y="40" font-family="sans-serif" font-size="24" text-anchor="middle" fill="#1f2a44">AI Visibility Monitoring Solutions</text>
+  <rect x="100" y="100" width="150" height="80" rx="15" ry="15" style="fill:white;stroke:#1f2a44;stroke-width:3;" />
+  <text x="175" y="140" font-family="sans-serif" font-size="16" text-anchor="middle" fill="#1f2a44">Vendor A</text>
+  
+  <rect x="300" y="80" width="150" height="80" rx="15" ry="15" style="fill:white;stroke:#1f2a44;stroke-width:3;" />
+  <text x="375" y="120" font-family="sans-serif" font-size="16" text-anchor="middle" fill="#1f2a44">Vendor B</text>
+  
+  <rect x="500" y="100" width="150" height="80" rx="15" ry="15" style="fill:white;stroke:#1f2a44;stroke-width:3;" />
+  <text x="575" y="140" font-family="sans-serif" font-size="16" text-anchor="middle" fill="#1f2a44">Vendor C</text>
+  
+  <rect x="200" y="300" width="150" height="80" rx="15" ry="15" style="fill:white;stroke:#1f2a44;stroke-width:3;" />
+  <text x="275" y="340" font-family="sans-serif" font-size="16" text-anchor="middle" fill="#1f2a44">Evaluation Criteria</text>
+  
+  <rect x="400" y="300" width="150" height="80" rx="15" ry="15" style="fill:white;stroke:#1f2a44;stroke-width:3;" />
+  <text x="475" y="340" font-family="sans-serif" font-size="16" text-anchor="middle" fill="#1f2a44">Best Solution</text>
+
+  <line x1="150" y1="180" x2="350" y2="80" style="stroke:#1f2a44;stroke-width:3;stroke-linecap:round;" marker-end="url(#arrowhead)" />
+  <line x1="350" y1="180" x2="550" y2="100" style="stroke:#1f2a44;stroke-width:3;stroke-linecap:round;" marker-end="url(#arrowhead)" />
+  
+  <line x1="150" y1="350" x2="275" y2="300" style="stroke:#1f2a44;stroke-width:3;stroke-linecap:round;" marker-end="url(#arrowhead)" />
+  <line x1="475" y1="350" x2="575" y2="300" style="stroke:#1f2a44;stroke-width:3;stroke-linecap:round;" marker-end="url(#arrowhead)" />
+  
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#1f2a44" />
+    </marker>
+  </defs>
+</svg>
