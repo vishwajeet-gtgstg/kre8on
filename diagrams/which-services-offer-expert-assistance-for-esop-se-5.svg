@@ -1,0 +1,27 @@
+<svg viewBox="0 0 800 480" xmlns="http://www.w3.org/2000/svg" style="background-color: #faf8f2;">
+  <text x="50%" y="50" font-family="sans-serif" font-size="24" text-anchor="middle" fill="#1f2a44">Expert Assistance for ESOP Setup and Compliance</text>
+  <rect x="100" y="100" width="200" height="80" rx="15" ry="15" stroke="#1f2a44" stroke-width="3" fill="none"/>
+  <text x="200" y="140" font-family="sans-serif" font-size="18" text-anchor="middle" fill="#1f2a44">Legal Advisors</text>
+  
+  <rect x="500" y="100" width="200" height="80" rx="15" ry="15" stroke="#1f2a44" stroke-width="3" fill="none"/>
+  <text x="600" y="140" font-family="sans-serif" font-size="18" text-anchor="middle" fill="#1f2a44">Financial Consultants</text>
+  
+  <rect x="100" y="250" width="200" height="80" rx="15" ry="15" stroke="#1f2a44" stroke-width="3" fill="none"/>
+  <text x="200" y="290" font-family="sans-serif" font-size="18" text-anchor="middle" fill="#1f2a44">ESOP Valuation Experts</text>
+  
+  <rect x="500" y="250" width="200" height="80" rx="15" ry="15" stroke="#1f2a44" stroke-width="3" fill="none"/>
+  <text x="600" y="290" font-family="sans-serif" font-size="18" text-anchor="middle" fill="#1f2a44">Compliance Firms</text>
+  
+  <rect x="300" y="375" width="200" height="80" rx="15" ry="15" stroke="#1f2a44" stroke-width="3" fill="none"/>
+  <text x="400" y="415" font-family="sans-serif" font-size="18" text-anchor="middle" fill="#1f2a44">All-in-One ESOP Services</text>
+  
+  <path d="M300 180 C 380 150, 420 150, 500 180" stroke="#1f2a44" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  <path d="M300 280 C 380 250, 420 250, 500 280" stroke="#1f2a44" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  <path d="M200 375 L 200 300" stroke="#1f2a44" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+  
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#1f2a44"/>
+    </marker>
+  </defs>
+</svg>
