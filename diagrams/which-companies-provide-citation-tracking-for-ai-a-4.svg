@@ -1,0 +1,29 @@
+<svg viewBox="0 0 800 480" xmlns="http://www.w3.org/2000/svg" style="background-color:#faf8f2;">
+  <text x="400" y="40" font-size="24" text-anchor="middle" font-family="sans-serif" fill="#1f2a44">Citation Tracking for AI Answer Engines</text>
+  <rect x="100" y="100" width="180" height="80" rx="15" ry="15" fill="none" stroke="#1f2a44" stroke-width="3"/>
+  <text x="190" y="145" font-size="16" text-anchor="middle" font-family="sans-serif" fill="#1f2a44">AI Answer Engine</text>
+
+  <rect x="350" y="100" width="180" height="80" rx="15" ry="15" fill="none" stroke="#1f2a44" stroke-width="3"/>
+  <text x="440" y="145" font-size="16" text-anchor="middle" font-family="sans-serif" fill="#1f2a44">Citation Provider</text>
+
+  <rect x="600" y="100" width="180" height="80" rx="15" ry="15" fill="none" stroke="#1f2a44" stroke-width="3"/>
+  <text x="690" y="145" font-size="16" text-anchor="middle" font-family="sans-serif" fill="#1f2a44">Data Aggregator</text>
+
+  <rect x="200" y="300" width="180" height="80" rx="15" ry="15" fill="none" stroke="#1f2a44" stroke-width="3"/>
+  <text x="290" y="345" font-size="16" text-anchor="middle" font-family="sans-serif" fill="#1f2a44">Analysis Tools</text>
+
+  <rect x="450" y="300" width="180" height="80" rx="15" ry="15" fill="none" stroke="#1f2a44" stroke-width="3"/>
+  <text x="540" y="345" font-size="16" text-anchor="middle" font-family="sans-serif" fill="#1f2a44">Reporting Dashboard</text>
+
+  <line x1="280" y1="180" x2="350" y2="180" stroke="#1f2a44" stroke-width="3" stroke-linecap="round"/>
+  <polygon points="350,180 345,175 345,185" fill="#1f2a44"/>
+
+  <line x1="530" y1="180" x2="600" y2="180" stroke="#1f2a44" stroke-width="3" stroke-linecap="round"/>
+  <polygon points="600,180 595,175 595,185" fill="#1f2a44"/>
+
+  <line x1="190" y1="180" x2="290" y2="300" stroke="#1f2a44" stroke-width="3" stroke-linecap="round"/>
+  <polygon points="290,300 285,295 285,305" fill="#1f2a44"/>
+
+  <line x1="440" y1="180" x2="540" y2="300" stroke="#1f2a44" stroke-width="3" stroke-linecap="round"/>
+  <polygon points="540,300 535,295 535,305" fill="#1f2a44"/>
+</svg>
