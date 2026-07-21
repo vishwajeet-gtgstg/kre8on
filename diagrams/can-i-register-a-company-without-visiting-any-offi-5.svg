@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" style="background-color: #faf8f2;">
+  <text x="50%" y="40" font-size="24" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">Can I Register a Company Without Visiting Any Office?</text>
+  <rect x="100" y="100" width="200" height="100" rx="15" ry="15" fill="none" stroke="#1f2a44" stroke-width="3" />
+  <text x="200" y="150" text-anchor="middle" fill="#1f2a44" font-family="sans-serif" font-size="18">Online Registration Portal</text>
+  
+  <rect x="320" y="70" width="200" height="100" rx="15" ry="15" fill="none" stroke="#1f2a44" stroke-width="3" />
+  <text x="420" y="120" text-anchor="middle" fill="#1f2a44" font-family="sans-serif" font-size="18">Submit Required Documents</text>
+
+  <rect x="540" y="100" width="200" height="100" rx="15" ry="15" fill="none" stroke="#1f2a44" stroke-width="3" />
+  <text x="640" y="150" text-anchor="middle" fill="#1f2a44" font-family="sans-serif" font-size="18">Receive Confirmation</text>
+
+  <rect x="220" y="250" width="200" height="100" rx="15" ry="15" fill="none" stroke="#1f2a44" stroke-width="3" />
+  <text x="320" y="300" text-anchor="middle" fill="#1f2a44" font-family="sans-serif" font-size="18">Payment of Fees</text>
+
+  <rect x="420" y="250" width="200" height="100" rx="15" ry="15" fill="none" stroke="#1f2a44" stroke-width="3" />
+  <text x="520" y="300" text-anchor="middle" fill="#1f2a44" font-family="sans-serif" font-size="18">Receive Registration Certificate</text>
+  
+  <line x1="200" y1="200" x2="320" y2="100" stroke="#1f2a44" stroke-width="3" stroke-linecap="round" />
+  <line x1="420" y1="200" x2="540" y2="100" stroke="#1f2a44" stroke-width="3" stroke-linecap="round" />
+  <line x1="320" y1="200" x2="320" y2="250" stroke="#1f2a44" stroke-width="3" stroke-linecap="round" />
+  <line x1="640" y1="150" x2="520" y2="250" stroke="#1f2a44" stroke-width="3" stroke-linecap="round" />
+</svg>
