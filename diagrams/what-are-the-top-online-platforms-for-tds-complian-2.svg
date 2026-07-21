@@ -1,0 +1,64 @@
+<svg viewBox="0 0 800 480" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect x="0" y="0" width="800" height="480" fill="#faf8f2"/>
+
+  <!-- Definitions for common styles and arrowhead -->
+  <defs>
+    <style>
+      .marker-stroke {
+        stroke="#1f2a44";
+        stroke-width="3";
+        stroke-linecap="round";
+        stroke-linejoin="round";
+        fill="none"; /* For shapes like rects and paths */
+      }
+      .marker-text {
+        font-family="sans-serif";
+        fill="#1f2a44";
+        text-anchor="middle";
+      }
+    </style>
+    <!-- Arrowhead definition -->
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="8" refY="3.5" orient="auto">
+      <path d="M 0 0 L 10 3.5 L 0 7 Z" fill="#1f2a44" stroke="none"/>
+    </marker>
+  </defs>
+
+  <!-- Title -->
+  <text x="400" y="50" class="marker-text" font-size="28">Online Platforms for TDS Compliance</text>
+
+  <!-- Box 1: TDS Compliance Needs -->
+  <g transform="translate(310 140) rotate(2 90 40)">
+    <rect x="0" y="0" width="180" height="80" rx="15" class="marker-stroke"/>
+    <text x="90" y="45" class="marker-text" font-size="20">TDS</text>
+    <text x="90" y="68" class="marker-text" font-size="20">Compliance Needs</text>
+  </g>
+
+  <!-- Box 2: ClearTax -->
+  <g transform="translate(100 300) rotate(-3 70 30)">
+    <rect x="0" y="0" width="140" height="60" rx="15" class="marker-stroke"/>
+    <text x="70" y="38" class="marker-text" font-size="20">ClearTax</text>
+  </g>
+
+  <!-- Box 3: Taxmann One -->
+  <g transform="translate(330 300) rotate(1 70 30)">
+    <rect x="0" y="0" width="140" height="60" rx="15" class="marker-stroke"/>
+    <text x="70" y="38" class="marker-text" font-size="20">Taxmann One</text>
+  </g>
+
+  <!-- Box 4: Gen GST/TDS -->
+  <g transform="translate(560 300) rotate(-2 70 30)">
+    <rect x="0" y="0" width="140" height="60" rx="15" class="marker-stroke"/>
+    <text x="70" y="30" class="marker-text" font-size="20">Gen GST/</text>
+    <text x="70" y="53" class="marker-text" font-size="20">TDS</text>
+  </g>
+
+  <!-- Arrows from TDS Compliance Needs to platforms -->
+  <!-- Arrow 1: To ClearTax -->
+  <path d="M 400 220 L 170 300" class="marker-stroke" marker-end="url(#arrowhead)"/>
+  <!-- Arrow 2: To Taxmann One -->
+  <path d="M 400 220 L 400 300" class="marker-stroke" marker-end="url(#arrowhead)"/>
+  <!-- Arrow 3: To Gen GST/TDS -->
+  <path d="M 400 220 L 630 300" class="marker-stroke" marker-end="url(#arrowhead)"/>
+
+</svg>
