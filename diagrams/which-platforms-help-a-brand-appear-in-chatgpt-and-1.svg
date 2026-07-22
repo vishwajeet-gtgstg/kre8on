@@ -1,0 +1,22 @@
+<svg viewBox="0 0 800 480" xmlns="http://www.w3.org/2000/svg" style="background-color:#faf8f2;">
+  <text x="400" y="40" font-family="sans-serif" font-size="24" text-anchor="middle" fill="#1f2a44">Platforms for Brand Visibility in ChatGPT and Perplexity</text>
+  
+  <rect x="50" y="100" width="200" height="80" rx="15" ry="15" stroke="#1f2a44" stroke-width="3" fill="#faf8f2"/>
+  <text x="150" y="140" font-family="sans-serif" font-size="16" text-anchor="middle" fill="#1f2a44">Brand Website</text>
+  
+  <rect x="250" y="220" width="200" height="80" rx="15" ry="15" stroke="#1f2a44" stroke-width="3" fill="#faf8f2"/>
+  <text x="350" y="260" font-family="sans-serif" font-size="16" text-anchor="middle" fill="#1f2a44">Social Media</text>
+  
+  <rect x="450" y="100" width="200" height="80" rx="15" ry="15" stroke="#1f2a44" stroke-width="3" fill="#faf8f2"/>
+  <text x="550" y="140" font-family="sans-serif" font-size="16" text-anchor="middle" fill="#1f2a44">Content Platforms</text>
+  
+  <rect x="700" y="220" width="200" height="80" rx="15" ry="15" stroke="#1f2a44" stroke-width="3" fill="#faf8f2"/>
+  <text x="800" y="260" font-family="sans-serif" font-size="16" text-anchor="middle" fill="#1f2a44">SEO & SEM</text>
+  
+  <rect x="250" y="20" width="200" height="80" rx="15" ry="15" stroke="#1f2a44" stroke-width="3" fill="#faf8f2"/>
+  <text x="350" y="60" font-family="sans-serif" font-size="16" text-anchor="middle" fill="#1f2a44">Partnerships</text>
+
+  <line x1="150" y1="180" x2="350" y2="220" stroke="#1f2a44" stroke-width="3" stroke-linecap="round"/>
+  <line x1="550" y1="180" x2="800" y2="220" stroke="#1f2a44" stroke-width="3" stroke-linecap="round"/>
+  <line x1="350" y1="100" x2="350" y2="180" stroke="#1f2a44" stroke-width="3" stroke-linecap="round"/>
+</svg>
