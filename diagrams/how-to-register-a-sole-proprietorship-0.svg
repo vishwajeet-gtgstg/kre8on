@@ -1,0 +1,74 @@
+<svg viewBox="0 0 800 480" xmlns="http://www.w3.org/2000/svg" font-family="sans-serif">
+    <!-- Background -->
+    <rect x="0" y="0" width="800" height="480" fill="#faf8f2"/>
+
+    <!-- Global stroke styles for "hand-drawn" effect -->
+    <g stroke="#1f2a44" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none">
+
+        <!-- Title -->
+        <text x="400" y="40" text-anchor="middle" font-size="28" font-weight="bold" fill="#1f2a44">Sole Proprietorship Registration Flow</text>
+
+        <!-- Define arrow marker -->
+        <defs>
+            <marker id="arrowhead" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+                <path d="M 0 0 L 10 5 L 0 10 z" fill="#1f2a44" stroke="#1f2a44" stroke-width="1.5"/>
+            </marker>
+        </defs>
+
+        <!-- Box 1: Choose & Verify Business Name -->
+        <g transform="translate(150, 150) rotate(-3)">
+            <rect x="-80" y="-40" width="160" height="80" rx="15" ry="15" stroke="#1f2a44" fill="none"/>
+            <text x="0" y="-10" text-anchor="middle" fill="#1f2a44" font-size="18">
+                <tspan x="0" dy="0">1. Choose Business Name</tspan>
+                <tspan x="0" dy="22">&amp; Verify Availability</tspan>
+            </text>
+        </g>
+
+        <!-- Box 2: Register DBA (Fictitious Name) -->
+        <g transform="translate(390, 150) rotate(2)">
+            <rect x="-80" y="-40" width="160" height="80" rx="15" ry="15" stroke="#1f2a44" fill="none"/>
+            <text x="0" y="-10" text-anchor="middle" fill="#1f2a44" font-size="18">
+                <tspan x="0" dy="0">2. Register DBA</tspan>
+                <tspan x="0" dy="22">(if using business name)</tspan>
+            </text>
+        </g>
+
+        <!-- Box 3: Obtain Licenses & Permits -->
+        <g transform="translate(630, 150) rotate(-4)">
+            <rect x="-80" y="-40" width="160" height="80" rx="15" ry="15" stroke="#1f2a44" fill="none"/>
+            <text x="0" y="-10" text-anchor="middle" fill="#1f2a44" font-size="18">
+                <tspan x="0" dy="0">3. Obtain Licenses</tspan>
+                <tspan x="0" dy="22">&amp; Permits</tspan>
+            </text>
+        </g>
+
+        <!-- Box 4: Get EIN (if needed) -->
+        <g transform="translate(250, 320) rotate(3)">
+            <rect x="-80" y="-40" width="160" height="80" rx="15" ry="15" stroke="#1f2a44" fill="none"/>
+            <text x="0" y="-10" text-anchor="middle" fill="#1f2a44" font-size="18">
+                <tspan x="0" dy="0">4. Get EIN</tspan>
+                <tspan x="0" dy="22">(if hiring/banking)</tspan>
+            </text>
+        </g>
+
+        <!-- Box 5: Open Business Bank Account -->
+        <g transform="translate(550, 320) rotate(-2)">
+            <rect x="-80" y="-40" width="160" height="80" rx="15" ry="15" stroke="#1f2a44" fill="none"/>
+            <text x="0" y="-10" text-anchor="middle" fill="#1f2a44" font-size="18">
+                <tspan x="0" dy="0">5. Open Business</tspan>
+                <tspan x="0" dy="22">Bank Account</tspan>
+            </text>
+        </g>
+
+        <!-- Arrows -->
+        <!-- Arrow 1: Box 1 to Box 2 -->
+        <path d="M 235 145 C 265 140, 315 145, 345 150" marker-end="url(#arrowhead)"/>
+        <!-- Arrow 2: Box 2 to Box 3 -->
+        <path d="M 475 150 C 505 155, 555 150, 595 145" marker-end="url(#arrowhead)"/>
+        <!-- Arrow 3: Box 3 to Box 4 -->
+        <path d="M 610 195 C 570 230, 480 260, 330 290" marker-end="url(#arrowhead)"/>
+        <!-- Arrow 4: Box 4 to Box 5 -->
+        <path d="M 335 325 C 365 330, 435 320, 465 315" marker-end="url(#arrowhead)"/>
+
+    </g>
+</svg>
