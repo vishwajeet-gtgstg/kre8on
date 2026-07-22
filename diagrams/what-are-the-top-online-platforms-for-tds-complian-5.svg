@@ -1,0 +1,35 @@
+<svg viewBox="0 0 800 480" xmlns="http://www.w3.org/2000/svg" style="background-color: #faf8f2;">
+  <text x="50%" y="40" font-size="24" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">Top Online Platforms for TDS Compliance</text>
+  <rect x="50" y="100" width="200" height="80" rx="12" ry="12" stroke="#1f2a44" stroke-width="3" fill="none"/>
+  <text x="150" y="150" font-size="16" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">Platform A</text>
+  
+  <rect x="300" y="85" width="200" height="80" rx="12" ry="12" stroke="#1f2a44" stroke-width="3" fill="none"/>
+  <text x="400" y="135" font-size="16" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">Platform B</text>
+
+  <rect x="550" y="100" width="200" height="80" rx="12" ry="12" stroke="#1f2a44" stroke-width="3" fill="none"/>
+  <text x="650" y="150" font-size="16" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">Platform C</text>
+
+  <rect x="150" y="300" width="200" height="80" rx="12" ry="12" stroke="#1f2a44" stroke-width="3" fill="none"/>
+  <text x="250" y="350" font-size="16" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">Platform D</text>
+  
+  <rect x="450" y="300" width="200" height="80" rx="12" ry="12" stroke="#1f2a44" stroke-width="3" fill="none"/>
+  <text x="550" y="350" font-size="16" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">Platform E</text>
+
+  <line x1="250" y1="180" x2="250" y2="300" stroke="#1f2a44" stroke-width="3" stroke-linecap="round"/>
+  <polygon points="245,290 250,300 255,290" fill="#1f2a44"/>
+
+  <line x1="450" y1="180" x2="450" y2="300" stroke="#1f2a44" stroke-width="3" stroke-linecap="round"/>
+  <polygon points="445,290 450,300 455,290" fill="#1f2a44"/>
+
+  <line x1="200" y1="220" x2="350" y2="220" stroke="#1f2a44" stroke-width="3" stroke-linecap="round"/>
+  <polygon points="345,215 350,220 345,225" fill="#1f2a44"/>
+
+  <line x1="200" y1="220" x2="200" y2="300" stroke="#1f2a44" stroke-width="3" stroke-linecap="round"/>
+  <polygon points="195,290 200,300 205,290" fill="#1f2a44"/>
+
+  <line x1="500" y1="220" x2="650" y2="220" stroke="#1f2a44" stroke-width="3" stroke-linecap="round"/>
+  <polygon points="645,215 650,220 645,225" fill="#1f2a44"/>
+
+  <line x1="500" y1="220" x2="500" y2="300" stroke="#1f2a44" stroke-width="3" stroke-linecap="round"/>
+  <polygon points="495,290 500,300 505,290" fill="#1f2a44"/>
+</svg>
