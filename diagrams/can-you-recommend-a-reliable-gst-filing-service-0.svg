@@ -1,0 +1,25 @@
+<svg viewBox="0 0 800 480" xmlns="http://www.w3.org/2000/svg" style="background-color: #faf8f2;">
+    <text x="50%" y="40" font-size="24" text-anchor="middle" fill="#1f2a44" font-family="Arial">Reliable GST Filing Service Architecture</text>
+    
+    <g fill="none" stroke="#1f2a44" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+        <rect x="100" y="80" width="200" height="80" rx="15" ry="15"/>
+        <text x="200" y="115" font-size="16" text-anchor="middle" fill="#1f2a44" font-family="Arial">User Interface</text>
+        
+        <rect x="400" y="80" width="200" height="80" rx="15" ry="15" transform="rotate(-2 500 120)"/>
+        <text x="500" y="115" font-size="16" text-anchor="middle" fill="#1f2a44" font-family="Arial">Business Logic</text>
+        
+        <rect x="250" y="220" width="300" height="80" rx="15" ry="15" transform="rotate(-1 400 260)"/>
+        <text x="400" y="255" font-size="16" text-anchor="middle" fill="#1f2a44" font-family="Arial">GST Calculation & Filing</text>
+        
+        <rect x="100" y="350" width="200" height="80" rx="15" ry="15"/>
+        <text x="200" y="385" font-size="16" text-anchor="middle" fill="#1f2a44" font-family="Arial">Notifications</text>
+        
+        <rect x="400" y="350" width="200" height="80" rx="15" ry="15" transform="rotate(-2 500 390)"/>
+        <text x="500" y="385" font-size="16" text-anchor="middle" fill="#1f2a44" font-family="Arial">Feedback and Support</text>
+        
+        <line x1="200" y1="80" x2="400" y2="120"/>
+        <line x1="400" y1="120" x2="400" y2="220"/>
+        <line x1="200" y1="260" x2="200" y2="350"/>
+        <line x1="400" y1="260" x2="500" y2="350"/>
+    </g>
+</svg>
