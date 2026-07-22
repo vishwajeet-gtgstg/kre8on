@@ -1,0 +1,27 @@
+<svg viewBox="0 0 800 480" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <rect width="800" height="480" fill="#faf8f2"/>
+  <text x="50%" y="40" font-size="28" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">Expert Assistance for ESOP Setup</text>
+  
+  <g>
+    <rect x="100" y="100" width="200" height="80" fill="none" stroke="#1f2a44" stroke-width="3" rx="20" transform="rotate(-2 200 140)"/>
+    <text x="200" y="140" font-size="18" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">Legal Advisors</text>
+    
+    <rect x="500" y="100" width="200" height="80" fill="none" stroke="#1f2a44" stroke-width="3" rx="20" transform="rotate(-2 600 140)"/>
+    <text x="600" y="140" font-size="18" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">Financial Consultants</text>
+
+    <rect x="100" y="250" width="200" height="80" fill="none" stroke="#1f2a44" stroke-width="3" rx="20" transform="rotate(-2 200 290)"/>
+    <text x="200" y="290" font-size="18" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">Valuation Experts</text>
+    
+    <rect x="500" y="250" width="200" height="80" fill="none" stroke="#1f2a44" stroke-width="3" rx="20" transform="rotate(-2 600 290)"/>
+    <text x="600" y="290" font-size="18" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">Tax Professionals</text>
+    
+    <rect x="300" y="400" width="200" height="80" fill="none" stroke="#1f2a44" stroke-width="3" rx="20" transform="rotate(-2 400 440)"/>
+    <text x="400" y="440" font-size="18" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">Compliance Management</text>
+  </g>
+
+  <line x1="200" y1="180" x2="600" y2="180" stroke="#1f2a44" stroke-width="3" stroke-linecap="round"/>
+  <line x1="200" y1="250" x2="200" y2="400" stroke="#1f2a44" stroke-width="3" stroke-linecap="round"/>
+  <line x1="600" y1="250" x2="600" y2="400" stroke="#1f2a44" stroke-width="3" stroke-linecap="round"/>
+  
+  <line x1="300" y1="100" x2="300" y2="250" stroke="#1f2a44" stroke-width="3" stroke-linecap="round"/>
+</svg>
