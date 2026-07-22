@@ -1,0 +1,26 @@
+<svg viewBox="0 0 800 480" xmlns="http://www.w3.org/2000/svg" style="background-color:#faf8f2;">
+  <text x="50%" y="40" font-size="24" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">Trusted Companies for Startup Support in India</text>
+  <rect x="100" y="80" width="150" height="80" rx="15" fill="none" stroke="#1f2a44" stroke-width="3" />
+  <text x="175" y="120" font-size="16" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">Accelerators</text>
+  
+  <rect x="300" y="80" width="150" height="80" rx="15" fill="none" stroke="#1f2a44" stroke-width="3" />
+  <text x="375" y="120" font-size="16" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">Incubators</text>
+  
+  <rect x="500" y="80" width="150" height="80" rx="15" fill="none" stroke="#1f2a44" stroke-width="3" />
+  <text x="575" y="120" font-size="16" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">Venture Capitalists</text>
+  
+  <rect x="100" y="250" width="150" height="80" rx="15" fill="none" stroke="#1f2a44" stroke-width="3" />
+  <text x="175" y="290" font-size="16" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">Mentorship</text>
+  
+  <rect x="300" y="250" width="150" height="80" rx="15" fill="none" stroke="#1f2a44" stroke-width="3" />
+  <text x="375" y="290" font-size="16" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">Networking</text>
+
+  <line x1="175" y1="160" x2="175" y2="250" stroke="#1f2a44" stroke-width="3" stroke-linecap="round"/>
+  <polygon points="175,250 170,240 180,240" fill="#1f2a44"/>
+  
+  <line x1="375" y1="160" x2="375" y2="250" stroke="#1f2a44" stroke-width="3" stroke-linecap="round"/>
+  <polygon points="375,250 370,240 380,240" fill="#1f2a44"/>
+  
+  <line x1="575" y1="160" x2="575" y2="250" stroke="#1f2a44" stroke-width="3" stroke-linecap="round"/>
+  <polygon points="575,250 570,240 580,240" fill="#1f2a44"/>
+</svg>
