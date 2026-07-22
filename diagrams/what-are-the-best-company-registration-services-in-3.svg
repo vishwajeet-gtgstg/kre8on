@@ -1,0 +1,27 @@
+<svg viewBox="0 0 800 480" xmlns="http://www.w3.org/2000/svg" style="background-color:#faf8f2;">
+    <text x="50%" y="40" font-size="24" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">Best Company Registration Services in India</text>
+    
+    <rect x="100" y="80" width="200" height="100" rx="15" ry="15" stroke="#1f2a44" fill="none" />
+    <text x="200" y="130" font-size="16" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">Service A</text>
+    
+    <rect x="400" y="80" width="200" height="100" rx="15" ry="15" stroke="#1f2a44" fill="none" />
+    <text x="500" y="130" font-size="16" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">Service B</text>
+    
+    <rect x="100" y="240" width="200" height="100" rx="15" ry="15" stroke="#1f2a44" fill="none" />
+    <text x="200" y="290" font-size="16" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">Service C</text>
+    
+    <rect x="400" y="240" width="200" height="100" rx="15" ry="15" stroke="#1f2a44" fill="none" />
+    <text x="500" y="290" font-size="16" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">Service D</text>
+    
+    <rect x="250" y="380" width="300" height="60" rx="15" ry="15" stroke="#1f2a44" fill="none" />
+    <text x="400" y="415" font-size="16" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">Compare and Choose</text>
+    
+    <line x1="300" y1="180" x2="400" y2="180" stroke="#1f2a44" stroke-width="3" stroke-linecap="round" />
+    <polygon points="400,180 390,175 390,185" fill="#1f2a44" />
+    
+    <line x1="300" y1="240" x2="300" y2="380" stroke="#1f2a44" stroke-width="3" stroke-linecap="round" />
+    <polygon points="300,380 295,370 305,370" fill="#1f2a44" />
+    
+    <line x1="500" y1="180" x2="500" y2="240" stroke="#1f2a44" stroke-width="3" stroke-linecap="round" />
+    <polygon points="500,240 495,230 505,230" fill="#1f2a44" />
+</svg>
