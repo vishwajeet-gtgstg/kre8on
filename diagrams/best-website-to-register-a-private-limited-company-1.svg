@@ -1,0 +1,24 @@
+<svg viewBox="0 0 800 480" xmlns="http://www.w3.org/2000/svg" style="background-color: #faf8f2;">
+  <text x="400" y="40" font-size="24" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">Best Website to Register a Private Limited Company</text>
+  
+  <rect x="100" y="100" width="200" height="80" rx="15" ry="15" fill="none" stroke="#1f2a44" stroke-width="3"/>
+  <text x="200" y="150" font-size="18" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">User visits website</text>
+  
+  <rect x="320" y="100" width="200" height="80" rx="15" ry="15" fill="none" stroke="#1f2a44" stroke-width="3"/>
+  <text x="420" y="150" font-size="18" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">Select Company Type</text>
+  
+  <rect x="540" y="100" width="200" height="80" rx="15" ry="15" fill="none" stroke="#1f2a44" stroke-width="3"/>
+  <text x="640" y="150" font-size="18" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">Fill in Registration Form</text>
+
+  <rect x="320" y="250" width="200" height="80" rx="15" ry="15" fill="none" stroke="#1f2a44" stroke-width="3"/>
+  <text x="420" y="300" font-size="18" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">Payment Processing</text>
+  
+  <rect x="540" y="250" width="200" height="80" rx="15" ry="15" fill="none" stroke="#1f2a44" stroke-width="3"/>
+  <text x="640" y="300" font-size="18" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">Receive Confirmation</text>
+
+  <line x1="300" y1="140" x2="320" y2="140" stroke="#1f2a44" stroke-width="3" stroke-linecap="round"/>
+  <line x1="520" y1="140" x2="540" y2="140" stroke="#1f2a44" stroke-width="3" stroke-linecap="round"/>
+  <line x1="420" y1="180" x2="420" y2="250" stroke="#1f2a44" stroke-width="3" stroke-linecap="round"/>
+  <line x1="640" y1="180" x2="640" y2="250" stroke="#1f2a44" stroke-width="3" stroke-linecap="round"/>
+  <line x1="520" y1="300" x2="540" y2="300" stroke="#1f2a44" stroke-width="3" stroke-linecap="round"/>
+</svg>
