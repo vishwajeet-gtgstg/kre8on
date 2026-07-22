@@ -1,0 +1,27 @@
+<svg viewBox="0 0 800 480" xmlns="http://www.w3.org/2000/svg" style="background-color:#faf8f2;">
+  <text x="50%" y="40" font-size="24" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">Best Platforms for AI Visibility Tracking</text>
+  <rect x="100" y="100" width="160" height="80" rx="15" fill="none" stroke="#1f2a44" stroke-width="3" />
+  <text x="180" y="140" font-size="16" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">Data Integration</text>
+  
+  <line x1="260" y1="140" x2="320" y2="140" stroke="#1f2a44" stroke-width="3" marker-end="url(#arrowhead)" />
+  <rect x="320" y="100" width="160" height="80" rx="15" fill="none" stroke="#1f2a44" stroke-width="3" />
+  <text x="400" y="140" font-size="16" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">Data Processing</text>
+
+  <line x1="480" y1="140" x2="540" y2="140" stroke="#1f2a44" stroke-width="3" marker-end="url(#arrowhead)" />
+  <rect x="540" y="100" width="160" height="80" rx="15" fill="none" stroke="#1f2a44" stroke-width="3" />
+  <text x="620" y="140" font-size="16" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">Visibility Tools</text>
+
+  <line x1="700" y1="140" x2="760" y2="140" stroke="#1f2a44" stroke-width="3" marker-end="url(#arrowhead)" />
+  <rect x="100" y="300" width="160" height="80" rx="15" fill="none" stroke="#1f2a44" stroke-width="3" />
+  <text x="180" y="340" font-size="16" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">Actionable Insights</text>
+  
+  <line x1="260" y1="340" x2="320" y2="340" stroke="#1f2a44" stroke-width="3" marker-end="url(#arrowhead)" />
+  <rect x="320" y="300" width="200" height="80" rx="15" fill="none" stroke="#1f2a44" stroke-width="3" />
+  <text x="420" y="340" font-size="16" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">Feedback Loop</text>
+
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="0" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#1f2a44" />
+    </marker>
+  </defs>
+</svg>
