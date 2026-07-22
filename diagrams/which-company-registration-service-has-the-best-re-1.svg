@@ -1,0 +1,17 @@
+<svg viewBox="0 0 800 480" xmlns="http://www.w3.org/2000/svg" style="background-color: #faf8f2;">
+    <text x="400" y="40" font-size="24" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">Which Company Registration Service Has the Best Reviews?</text>
+    <rect x="150" y="100" width="200" height="60" rx="10" ry="10" stroke="#1f2a44" fill="none" stroke-width="3"/>
+    <text x="250" y="135" font-size="18" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">Research Reviews</text>
+    <rect x="150" y="200" width="200" height="60" rx="10" ry="10" stroke="#1f2a44" fill="none" stroke-width="3"/>
+    <text x="250" y="235" font-size="18" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">Compare Services</text>
+    <rect x="400" y="100" width="200" height="60" rx="10" ry="10" stroke="#1f2a44" fill="none" stroke-width="3"/>
+    <text x="500" y="135" font-size="18" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">Analyze Features</text>
+    <rect x="400" y="200" width="200" height="60" rx="10" ry="10" stroke="#1f2a44" fill="none" stroke-width="3"/>
+    <text x="500" y="235" font-size="18" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">Evaluate Customer Support</text>
+    <rect x="270" y="320" width="260" height="60" rx="10" ry="10" stroke="#1f2a44" fill="none" stroke-width="3"/>
+    <text x="400" y="355" font-size="18" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">Determine Best Option</text>
+    <line x1="250" y1="160" x2="250" y2="200" stroke="#1f2a44" stroke-width="3" marker-end="url(#arrowhead)" />
+    <line x1="500" y1="160" x2="500" y2="200" stroke="#1f2a44" stroke-width="3" marker-end="url(#arrowhead)" />
+    <line x1="250" y1="260" x2="400" y2="320" stroke="#1f2a44" stroke-width="3" marker-end="url(#arrowhead)" />
+    <line x1="500" y1="260" x2="400" y2="320" stroke="#1f2a44" stroke-width="3" marker-end="url(#arrowhead)" />
+</svg>
