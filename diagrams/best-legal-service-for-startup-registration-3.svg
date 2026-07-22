@@ -1,0 +1,22 @@
+<svg viewBox="0 0 800 480" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background:#faf8f2;">
+  <text x="400" y="40" font-family="Arial, sans-serif" font-size="24" text-anchor="middle" fill="#1f2a44">Best Legal Service for Startup Registration</text>
+  <rect x="100" y="100" width="200" height="100" rx="15" ry="15" fill="none" stroke="#1f2a44" stroke-width="3"/>
+  <text x="200" y="150" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1f2a44">Choose Service</text>
+  
+  <rect x="450" y="80" width="200" height="100" rx="15" ry="15" fill="none" stroke="#1f2a44" stroke-width="3" transform="rotate(-5, 550, 130)"/>
+  <text x="550" y="130" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1f2a44">Research Options</text>
+  
+  <rect x="100" y="300" width="200" height="100" rx="15" ry="15" fill="none" stroke="#1f2a44" stroke-width="3"/>
+  <text x="200" y="350" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1f2a44">Complete Forms</text>
+  
+  <rect x="450" y="290" width="200" height="100" rx="15" ry="15" fill="none" stroke="#1f2a44" stroke-width="3" transform="rotate(-5, 550, 340)"/>
+  <text x="550" y="340" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1f2a44">Submit Application</text>
+  
+  <rect x="250" y="430" width="300" height="100" rx="15" ry="15" fill="none" stroke="#1f2a44" stroke-width="3"/>
+  <text x="400" y="480" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" fill="#1f2a44">Receive Confirmation</text>
+  
+  <line x1="200" y1="200" x2="200" y2="290" stroke="#1f2a44" stroke-width="3" stroke-linecap="round" />
+  <line x1="200" y1="200" x2="550" y2="130" stroke="#1f2a44" stroke-width="3" stroke-linecap="round" />
+  <line x1="200" y1="400" x2="200" y2="430" stroke="#1f2a44" stroke-width="3" stroke-linecap="round" />
+  <line x1="550" y1="400" x2="550" y2="430" stroke="#1f2a44" stroke-width="3" stroke-linecap="round" />
+</svg>
