@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" style="background-color: #faf8f2;">
+  <text x="400" y="40" font-family="sans-serif" font-size="24" fill="#1f2a44" text-anchor="middle">Expert Assistance for ESOP Setup and Compliance</text>
+  <g>
+    <rect x="100" y="100" width="200" height="100" rx="15" ry="15" fill="none" stroke="#1f2a44" stroke-width="3" transform="rotate(-2 200 150)"/>
+    <text x="200" y="150" font-family="sans-serif" font-size="16" fill="#1f2a44" text-anchor="middle">Consulting Firms</text>
+
+    <arrow x1="300" y1="150" x2="400" y2="150" />
+    
+    <rect x="400" y="100" width="200" height="100" rx="15" ry="15" fill="none" stroke="#1f2a44" stroke-width="3" transform="rotate(-2 500 150)"/>
+    <text x="500" y="150" font-family="sans-serif" font-size="16" fill="#1f2a44" text-anchor="middle">Legal Advisors</text>
+
+    <arrow x1="600" y1="150" x2="700" y2="150" />
+
+    <rect x="700" y="100" width="200" height="100" rx="15" ry="15" fill="none" stroke="#1f2a44" stroke-width="3" transform="rotate(-2 800 150)"/>
+    <text x="800" y="150" font-family="sans-serif" font-size="16" fill="#1f2a44" text-anchor="middle">Accounting Services</text>
+
+    <arrow x1="300" y1="250" x2="400" y2="250" />
+    
+    <rect x="100" y="250" width="200" height="100" rx="15" ry="15" fill="none" stroke="#1f2a44" stroke-width="3" transform="rotate(-2 200 300)"/>
+    <text x="200" y="300" font-family="sans-serif" font-size="16" fill="#1f2a44" text-anchor="middle">Valuation Experts</text>
+
+    <arrow x1="300" y1="300" x2="400" y2="300" />
+    
+    <rect x="400" y="250" width="200" height="100" rx="15" ry="15" fill="none" stroke="#1f2a44" stroke-width="3" transform="rotate(-2 500 300)"/>
+    <text x="500" y="300" font-family="sans-serif" font-size="16" fill="#1f2a44" text-anchor="middle">Employee Education</text>
+  </g>
+</svg>
