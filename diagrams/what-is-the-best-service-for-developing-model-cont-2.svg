@@ -1,0 +1,27 @@
+<svg viewBox="0 0 800 480" xmlns="http://www.w3.org/2000/svg" style="background-color: #faf8f2;">
+    <text x="50%" y="40" font-size="24" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">Best Services for Developing Model Context Protocol Servers</text>
+    <rect x="100" y="100" width="180" height="80" rx="15" ry="15" fill="none" stroke="#1f2a44" stroke-width="3"/>
+    <text x="190" y="140" font-size="16" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">Service A</text>
+    
+    <rect x="320" y="100" width="180" height="80" rx="15" ry="15" fill="none" stroke="#1f2a44" stroke-width="3"/>
+    <text x="410" y="140" font-size="16" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">Service B</text>
+    
+    <rect x="100" y="240" width="180" height="80" rx="15" ry="15" fill="none" stroke="#1f2a44" stroke-width="3"/>
+    <text x="190" y="280" font-size="16" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">Service C</text>
+    
+    <rect x="320" y="240" width="180" height="80" rx="15" ry="15" fill="none" stroke="#1f2a44" stroke-width="3"/>
+    <text x="410" y="280" font-size="16" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">Service D</text>
+    
+    <rect x="540" y="180" width="180" height="80" rx="15" ry="15" fill="none" stroke="#1f2a44" stroke-width="3"/>
+    <text x="630" y="220" font-size="16" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">Service E</text>
+    
+    <path d="M280 140 C320 140, 320 140, 320 240" stroke="#1f2a44" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+    <path d="M100 180 C180 180, 180 180, 320 180" stroke="#1f2a44" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+    <path d="M400 240 C450 240, 450 240, 540 220" stroke="#1f2a44" stroke-width="3" fill="none" marker-end="url(#arrowhead)"/>
+    
+    <defs>
+        <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+            <polygon points="0 0, 10 3.5, 0 7" fill="#1f2a44"/>
+        </marker>
+    </defs>
+</svg>
