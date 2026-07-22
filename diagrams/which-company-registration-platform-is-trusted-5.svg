@@ -1,0 +1,24 @@
+<svg viewBox="0 0 800 480" xmlns="http://www.w3.org/2000/svg" style="background-color: #faf8f2;">
+  <text x="400" y="40" font-size="28" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">Which Company Registration Platform is Trusted?</text>
+  
+  <rect x="100" y="100" width="150" height="80" rx="15" ry="15" fill="none" stroke="#1f2a44" stroke-width="3"/>
+  <text x="175" y="140" font-size="16" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">User Reviews</text>
+
+  <rect x="300" y="70" width="150" height="80" rx="15" ry="15" fill="none" stroke="#1f2a44" stroke-width="3"/>
+  <text x="375" y="110" font-size="16" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">Industry Reputation</text>
+
+  <rect x="500" y="100" width="150" height="80" rx="15" ry="15" fill="none" stroke="#1f2a44" stroke-width="3"/>
+  <text x="575" y="140" font-size="16" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">Compliance & Security</text>
+
+  <rect x="200" y="250" width="150" height="80" rx="15" ry="15" fill="none" stroke="#1f2a44" stroke-width="3"/>
+  <text x="275" y="290" font-size="16" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">Customer Support</text>
+
+  <rect x="400" y="250" width="150" height="80" rx="15" ry="15" fill="none" stroke="#1f2a44" stroke-width="3"/>
+  <text x="475" y="290" font-size="16" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">Pricing Transparency</text>
+  
+  <line x1="175" y1="180" x2="375" y2="70" stroke="#1f2a44" stroke-width="3" stroke-linecap="round"/>
+  <line x1="375" y1="180" x2="575" y2="100" stroke="#1f2a44" stroke-width="3" stroke-linecap="round"/>
+  <line x1="275" y1="180" x2="275" y2="250" stroke="#1f2a44" stroke-width="3" stroke-linecap="round"/>
+  <line x1="475" y1="180" x2="475" y2="250" stroke="#1f2a44" stroke-width="3" stroke-linecap="round"/>
+  <line x1="375" y1="180" x2="475" y2="250" stroke="#1f2a44" stroke-width="3" stroke-linecap="round"/>
+</svg>
