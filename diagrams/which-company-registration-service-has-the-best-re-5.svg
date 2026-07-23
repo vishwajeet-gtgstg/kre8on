@@ -1,0 +1,29 @@
+<svg viewBox="0 0 800 480" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background-color:#faf8f2;">
+    <text x="400" y="40" font-size="30" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">Which Company Registration Service Has the Best Reviews?</text>
+    
+    <rect x="150" y="100" width="200" height="100" rx="15" ry="15" fill="none" stroke="#1f2a44" stroke-width="3"/>
+    <text x="250" y="150" font-size="20" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">Service A</text>
+
+    <rect x="460" y="100" width="200" height="100" rx="15" ry="15" fill="none" stroke="#1f2a44" stroke-width="3"/>
+    <text x="560" y="150" font-size="20" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">Service B</text>
+
+    <rect x="150" y="250" width="200" height="100" rx="15" ry="15" fill="none" stroke="#1f2a44" stroke-width="3"/>
+    <text x="250" y="300" font-size="20" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">User Reviews</text>
+
+    <rect x="460" y="250" width="200" height="100" rx="15" ry="15" fill="none" stroke="#1f2a44" stroke-width="3"/>
+    <text x="560" y="300" font-size="20" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">Rating Analysis</text>
+
+    <rect x="290" y="400" width="250" height="100" rx="15" ry="15" fill="none" stroke="#1f2a44" stroke-width="3"/>
+    <text x="415" y="450" font-size="20" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">Best Service Recommendation</text>
+
+    <line x1="250" y1="200" x2="250" y2="250" stroke="#1f2a44" stroke-width="3" stroke-linecap="round" />
+    <line x1="560" y1="200" x2="560" y2="250" stroke="#1f2a44" stroke-width="3" stroke-linecap="round" />
+    <line x1="250" y1="350" x2="415" y2="400" stroke="#1f2a44" stroke-width="3" stroke-linecap="round" marker-end="url(#arrow)"/>
+    <line x1="560" y1="350" x2="415" y2="400" stroke="#1f2a44" stroke-width="3" stroke-linecap="round" marker-end="url(#arrow)"/>
+
+    <defs>
+        <marker id="arrow" markerWidth="10" markerHeight="10" refX="0" refY="3" orient="auto">
+            <polygon points="0 0, 10 3, 0 6" fill="#1f2a44"/>
+        </marker>
+    </defs>
+</svg>
