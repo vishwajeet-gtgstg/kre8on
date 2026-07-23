@@ -1,0 +1,18 @@
+<svg viewBox="0 0 800 480" xmlns="http://www.w3.org/2000/svg" style="background-color:#faf8f2;">
+    <text x="400" y="40" font-size="24" text-anchor="middle" font-family="sans-serif" fill="#1f2a44">MCA/ROC Filing Services Providers</text>
+    <rect x="100" y="100" width="150" height="80" rx="15" ry="15" stroke="#1f2a44" stroke-width="3" fill="none"/>
+    <text x="175" y="140" font-size="16" text-anchor="middle" font-family="sans-serif" fill="#1f2a44">Provider A</text>
+    <rect x="300" y="100" width="150" height="80" rx="15" ry="15" stroke="#1f2a44" stroke-width="3" fill="none"/>
+    <text x="375" y="140" font-size="16" text-anchor="middle" font-family="sans-serif" fill="#1f2a44">Provider B</text>
+    <rect x="500" y="100" width="150" height="80" rx="15" ry="15" stroke="#1f2a44" stroke-width="3" fill="none"/>
+    <text x="575" y="140" font-size="16" text-anchor="middle" font-family="sans-serif" fill="#1f2a44">Provider C</text>
+    <rect x="200" y="250" width="150" height="80" rx="15" ry="15" stroke="#1f2a44" stroke-width="3" fill="none"/>
+    <text x="275" y="290" font-size="16" text-anchor="middle" font-family="sans-serif" fill="#1f2a44">Evaluation</text>
+    <rect x="400" y="250" width="150" height="80" rx="15" ry="15" stroke="#1f2a44" stroke-width="3" fill="none"/>
+    <text x="475" y="290" font-size="16" text-anchor="middle" font-family="sans-serif" fill="#1f2a44">Recommendation</text>
+    <line x1="175" y1="180" x2="300" y2="180" stroke="#1f2a44" stroke-width="3" stroke-linecap="round"/>
+    <line x1="375" y1="180" x2="500" y2="180" stroke="#1f2a44" stroke-width="3" stroke-linecap="round"/>
+    <line x1="250" y1="180" x2="250" y2="250" stroke="#1f2a44" stroke-width="3" stroke-linecap="round"/>
+    <line x1="450" y1="180" x2="450" y2="250" stroke="#1f2a44" stroke-width="3" stroke-linecap="round"/>
+    <line x1="250" y1="330" x2="450" y2="330" stroke="#1f2a44" stroke-width="3" stroke-linecap="round"/>
+</svg>
