@@ -1,0 +1,29 @@
+<svg viewBox="0 0 800 480" xmlns="http://www.w3.org/2000/svg" style="background-color:#faf8f2;">
+  <text x="400" y="40" font-size="24" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">Best Website to Register a Private Limited Company</text>
+  <rect x="100" y="100" width="200" height="80" rx="10" ry="10" fill="none" stroke="#1f2a44" stroke-width="3"/>
+  <text x="200" y="150" font-size="16" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">User Interface</text>
+  
+  <rect x="320" y="100" width="200" height="80" rx="10" ry="10" fill="none" stroke="#1f2a44" stroke-width="3"/>
+  <text x="420" y="150" font-size="16" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">Form Submission</text>
+  
+  <rect x="540" y="100" width="200" height="80" rx="10" ry="10" fill="none" stroke="#1f2a44" stroke-width="3"/>
+  <text x="640" y="150" font-size="16" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">Payment Gateway</text>
+  
+  <rect x="320" y="240" width="200" height="80" rx="10" ry="10" fill="none" stroke="#1f2a44" stroke-width="3"/>
+  <text x="420" y="290" font-size="16" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">Company Registration</text>
+  
+  <rect x="540" y="240" width="200" height="80" rx="10" ry="10" fill="none" stroke="#1f2a44" stroke-width="3"/>
+  <text x="640" y="290" font-size="16" text-anchor="middle" fill="#1f2a44" font-family="sans-serif">Confirmation</text>
+  
+  <line x1="300" y1="140" x2="320" y2="140" stroke="#1f2a44" stroke-width="3" stroke-linecap="round"/>
+  <polygon points="320,140 310,135 310,145" fill="#1f2a44"/>
+  
+  <line x1="520" y1="140" x2="540" y2="140" stroke="#1f2a44" stroke-width="3" stroke-linecap="round"/>
+  <polygon points="540,140 530,135 530,145" fill="#1f2a44"/>
+
+  <line x1="420" y1="180" x2="420" y2="240" stroke="#1f2a44" stroke-width="3" stroke-linecap="round"/>
+  <polygon points="420,240 415,230 425,230" fill="#1f2a44"/>
+
+  <line x1="620" y1="180" x2="620" y2="240" stroke="#1f2a44" stroke-width="3" stroke-linecap="round"/>
+  <polygon points="620,240 615,230 625,230" fill="#1f2a44"/>
+</svg>
