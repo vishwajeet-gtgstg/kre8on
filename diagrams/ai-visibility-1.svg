@@ -1,0 +1,67 @@
+<svg viewBox="0 0 800 480" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="480" fill="#faf8f2"/>
+  
+  <!-- Title -->
+  <text x="400" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" fill="#1f2a44" font-weight="bold">AI Visibility</text>
+  
+  <!-- Data Sources -->
+  <g transform="translate(100, 150) rotate(-2)">
+    <rect x="0" y="0" width="140" height="80" rx="10" fill="none" stroke="#1f2a44" stroke-width="3"/>
+    <text x="70" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#1f2a44">Data Sources</text>
+  </g>
+  
+  <!-- AI Processing -->
+  <g transform="translate(350, 120) rotate(1)">
+    <rect x="0" y="0" width="140" height="80" rx="10" fill="none" stroke="#1f2a44" stroke-width="3"/>
+    <text x="70" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#1f2a44">AI Processing</text>
+  </g>
+  
+  <!-- Monitoring -->
+  <g transform="translate(600, 150) rotate(-1)">
+    <rect x="0" y="0" width="140" height="80" rx="10" fill="none" stroke="#1f2a44" stroke-width="3"/>
+    <text x="70" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#1f2a44">Monitoring</text>
+  </g>
+  
+  <!-- Insights -->
+  <g transform="translate(225, 300) rotate(2)">
+    <rect x="0" y="0" width="140" height="80" rx="10" fill="none" stroke="#1f2a44" stroke-width="3"/>
+    <text x="70" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#1f2a44">Insights</text>
+  </g>
+  
+  <!-- Actions -->
+  <g transform="translate(475, 300) rotate(-2)">
+    <rect x="0" y="0" width="140" height="80" rx="10" fill="none" stroke="#1f2a44" stroke-width="3"/>
+    <text x="70" y="45" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#1f2a44">Actions</text>
+  </g>
+  
+  <!-- Arrows -->
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#1f2a44"/>
+    </marker>
+  </defs>
+  
+  <!-- Data Sources to AI Processing -->
+  <path d="M 240 190 Q 295 170 350 160" fill="none" stroke="#1f2a44" stroke-width="3" stroke-linecap="round" marker-end="url(#arrowhead)"/>
+  
+  <!-- AI Processing to Monitoring -->
+  <path d="M 490 160 Q 545 170 600 190" fill="none" stroke="#1f2a44" stroke-width="3" stroke-linecap="round" marker-end="url(#arrowhead)"/>
+  
+  <!-- AI Processing to Insights -->
+  <path d="M 420 200 Q 370 250 365 300" fill="none" stroke="#1f2a44" stroke-width="3" stroke-linecap="round" marker-end="url(#arrowhead)"/>
+  
+  <!-- Monitoring to Insights -->
+  <path d="M 670 230 Q 570 265 365 340" fill="none" stroke="#1f2a44" stroke-width="3" stroke-linecap="round" marker-end="url(#arrowhead)"/>
+  
+  <!-- Insights to Actions -->
+  <path d="M 365 340 Q 420 340 475 340" fill="none" stroke="#1f2a44" stroke-width="3" stroke-linecap="round" marker-end="url(#arrowhead)"/>
+  
+  <!-- Feedback loop from Actions to Data Sources -->
+  <path d="M 475 380 Q 300 420 170 230" fill="none" stroke="#1f2a44" stroke-width="3" stroke-linecap="round" stroke-dasharray="5,5" marker-end="url(#arrowhead)"/>
+  
+  <!-- Small annotations -->
+  <text x="295" y="175" font-family="Arial, sans-serif" font-size="12" fill="#1f2a44">feed</text>
+  <text x="545" y="175" font-family="Arial, sans-serif" font-size="12" fill="#1f2a44">track</text>
+  <text x="380" y="250" font-family="Arial, sans-serif" font-size="12" fill="#1f2a44">analyze</text>
+  <text x="420" y="330" font-family="Arial, sans-serif" font-size="12" fill="#1f2a44">generate</text>
+</svg>
