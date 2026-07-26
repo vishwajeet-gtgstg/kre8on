@@ -1,0 +1,57 @@
+<svg viewBox="0 0 800 480" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="480" fill="#faf8f2"/>
+  
+  <!-- Title -->
+  <text x="400" y="50" font-family="Arial, sans-serif" font-size="32" font-weight="bold" text-anchor="middle" fill="#1f2a44">AI Visibility</text>
+  
+  <!-- Data Sources Box -->
+  <g transform="translate(80, 120) rotate(-2)">
+    <rect x="0" y="0" width="160" height="80" rx="12" fill="none" stroke="#1f2a44" stroke-width="3"/>
+    <text x="80" y="45" font-family="Arial, sans-serif" font-size="18" text-anchor="middle" fill="#1f2a44">Data Sources</text>
+  </g>
+  
+  <!-- AI Processing Box -->
+  <g transform="translate(320, 120) rotate(1)">
+    <rect x="0" y="0" width="160" height="80" rx="12" fill="none" stroke="#1f2a44" stroke-width="3"/>
+    <text x="80" y="45" font-family="Arial, sans-serif" font-size="18" text-anchor="middle" fill="#1f2a44">AI Processing</text>
+  </g>
+  
+  <!-- Monitoring Box -->
+  <g transform="translate(560, 120) rotate(-1)">
+    <rect x="0" y="0" width="160" height="80" rx="12" fill="none" stroke="#1f2a44" stroke-width="3"/>
+    <text x="80" y="45" font-family="Arial, sans-serif" font-size="18" text-anchor="middle" fill="#1f2a44">Monitoring</text>
+  </g>
+  
+  <!-- Insights Box -->
+  <g transform="translate(200, 280) rotate(2)">
+    <rect x="0" y="0" width="160" height="80" rx="12" fill="none" stroke="#1f2a44" stroke-width="3"/>
+    <text x="80" y="45" font-family="Arial, sans-serif" font-size="18" text-anchor="middle" fill="#1f2a44">Insights</text>
+  </g>
+  
+  <!-- Actions Box -->
+  <g transform="translate(440, 280) rotate(-2)">
+    <rect x="0" y="0" width="160" height="80" rx="12" fill="none" stroke="#1f2a44" stroke-width="3"/>
+    <text x="80" y="45" font-family="Arial, sans-serif" font-size="18" text-anchor="middle" fill="#1f2a44">Actions</text>
+  </g>
+  
+  <!-- Arrows -->
+  <!-- Data Sources to AI Processing -->
+  <path d="M 245 160 Q 280 160 315 160" fill="none" stroke="#1f2a44" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 310 155 L 320 160 L 310 165" fill="none" stroke="#1f2a44" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- AI Processing to Monitoring -->
+  <path d="M 485 160 Q 520 160 555 160" fill="none" stroke="#1f2a44" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 550 155 L 560 160 L 550 165" fill="none" stroke="#1f2a44" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- AI Processing to Insights -->
+  <path d="M 400 205 Q 400 240 360 275" fill="none" stroke="#1f2a44" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 355 270 L 360 280 L 365 270" fill="none" stroke="#1f2a44" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Monitoring to Actions -->
+  <path d="M 640 205 Q 640 240 600 275" fill="none" stroke="#1f2a44" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 605 270 L 600 280 L 595 270" fill="none" stroke="#1f2a44" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Insights to Actions -->
+  <path d="M 365 320 L 435 320" fill="none" stroke="#1f2a44" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 430 315 L 440 320 L 430 325" fill="none" stroke="#1f2a44" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
