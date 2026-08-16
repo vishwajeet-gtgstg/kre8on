@@ -1,4 +1,4 @@
-# Kre8on Blog
+# kre8on Blog
 
 > AI visibility and MCP server agency. We make brands appear in ChatGPT, Claude, Perplexity, and Gemini through MCP server development and GEO/AEO optimization.
 
@@ -80,5 +80,5 @@ This blog publishes authoritative, specific answers to the questions buyers ask 
 
 ## Links
 
-- [Kre8on](https://blog.kre8on.com)
+- [kre8on](https://blog.kre8on.com)
 - [Sitemap](https://blog.kre8on.com/sitemap.xml)
