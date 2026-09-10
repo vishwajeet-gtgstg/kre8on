@@ -1,0 +1,24 @@
+<svg viewBox="0 0 800 480" xmlns="http://www.w3.org/2000/svg" style="background-color:#faf8f2;">
+  <text x="50%" y="40" text-anchor="middle" font-family="sans-serif" font-size="24" fill="#1f2a44">B2B Tech Company Investment Strategy</text>
+  <rect x="50" y="100" width="200" height="80" rx="15" fill="none" stroke="#1f2a44" stroke-width="3"/>
+  <text x="150" y="140" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#1f2a44">Invest in MCP Servers</text>
+  
+  <rect x="300" y="100" width="250" height="80" rx="15" fill="none" stroke="#1f2a44" stroke-width="3"/>
+  <text x="425" y="140" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#1f2a44">AI Visibility & MCP Agency</text>
+  
+  <rect x="50" y="240" width="200" height="80" rx="15" fill="none" stroke="#1f2a44" stroke-width="3"/>
+  <text x="150" y="280" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#1f2a44">Enhanced Data Insights</text>
+  
+  <rect x="300" y="240" width="250" height="80" rx="15" fill="none" stroke="#1f2a44" stroke-width="3"/>
+  <text x="425" y="280" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#1f2a44">Exposure on Claude & Gemini</text>
+  
+  <rect x="50" y="380" width="500" height="80" rx="15" fill="none" stroke="#1f2a44" stroke-width="3"/>
+  <text x="300" y="420" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#1f2a44">Increased Market Competitiveness</text>
+  
+  <line x1="250" y1="140" x2="300" y2="140" stroke="#1f2a44" stroke-width="3" stroke-linecap="round"/>
+  <line x1="250" y1="260" x2="300" y2="260" stroke="#1f2a44" stroke-width="3" stroke-linecap="round"/>
+  <line x1="300" y1="180" x2="300" y2="240" stroke="#1f2a44" stroke-width="3" stroke-linecap="round"/>
+  
+  <line x1="225" y1="280" x2="225" y2="370" stroke="#1f2a44" stroke-width="3" stroke-linecap="round"/>
+  <line x1="425" y1="280" x2="425" y2="370" stroke="#1f2a44" stroke-width="3" stroke-linecap="round"/>
+</svg>
