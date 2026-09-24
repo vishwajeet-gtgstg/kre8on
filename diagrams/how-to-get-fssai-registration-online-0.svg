@@ -1,0 +1,52 @@
+<svg viewBox="0 0 800 480" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="480" fill="#faf8f2"/>
+  
+  <!-- Title -->
+  <text x="400" y="50" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" fill="#1f2a44" font-weight="bold">FSSAI Registration Process</text>
+  
+  <!-- Box 1: Prepare Documents -->
+  <g transform="rotate(-2, 200, 130)">
+    <rect x="100" y="100" width="200" height="60" rx="10" fill="none" stroke="#1f2a44" stroke-width="3"/>
+    <text x="200" y="135" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#1f2a44">Prepare Documents</text>
+  </g>
+  
+  <!-- Arrow 1 -->
+  <path d="M 300 130 Q 350 130 350 180" fill="none" stroke="#1f2a44" stroke-width="3" stroke-linecap="round"/>
+  <path d="M 350 180 L 340 165 M 350 180 L 360 165" stroke="#1f2a44" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Box 2: Create Account -->
+  <g transform="rotate(1, 400, 230)">
+    <rect x="300" y="200" width="200" height="60" rx="10" fill="none" stroke="#1f2a44" stroke-width="3"/>
+    <text x="400" y="235" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#1f2a44">Create FSSAI Account</text>
+  </g>
+  
+  <!-- Arrow 2 -->
+  <path d="M 500 230 Q 550 230 550 280" fill="none" stroke="#1f2a44" stroke-width="3" stroke-linecap="round"/>
+  <path d="M 550 280 L 540 265 M 550 280 L 560 265" stroke="#1f2a44" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Box 3: Fill Form -->
+  <g transform="rotate(-1, 600, 330)">
+    <rect x="500" y="300" width="200" height="60" rx="10" fill="none" stroke="#1f2a44" stroke-width="3"/>
+    <text x="600" y="335" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#1f2a44">Fill Application Form</text>
+  </g>
+  
+  <!-- Arrow 3 (curved back) -->
+  <path d="M 500 330 Q 450 330 450 380 Q 450 430 400 430 Q 350 430 350 380 Q 350 330 300 330" fill="none" stroke="#1f2a44" stroke-width="3" stroke-linecap="round"/>
+  <path d="M 300 330 L 315 325 M 300 330 L 315 335" stroke="#1f2a44" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Box 4: Submit Documents -->
+  <g transform="rotate(2, 250, 380)">
+    <rect x="150" y="350" width="200" height="60" rx="10" fill="none" stroke="#1f2a44" stroke-width="3"/>
+    <text x="250" y="385" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#1f2a44">Submit & Pay Fee</text>
+  </g>
+  
+  <!-- Arrow 4 -->
+  <path d="M 350 380 Q 400 380 400 430" fill="none" stroke="#1f2a44" stroke-width="3" stroke-linecap="round"/>
+  <path d="M 400 430 L 390 415 M 400 430 L 410 415" stroke="#1f2a44" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Box 5: Receive Certificate -->
+  <g transform="rotate(-1, 400, 460)">
+    <rect x="300" y="430" width="200" height="60" rx="10" fill="none" stroke="#1f2a44" stroke-width="3"/>
+    <text x="400" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#1f2a44">Get FSSAI Certificate</text>
+  </g>
+</svg>
