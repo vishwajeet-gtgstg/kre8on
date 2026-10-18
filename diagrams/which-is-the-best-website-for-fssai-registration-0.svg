@@ -1,0 +1,47 @@
+<svg viewBox="0 0 800 480" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="480" fill="#faf8f2"/>
+  
+  <!-- Title -->
+  <text x="400" y="40" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#1f2a44" font-weight="bold">Best Website for FSSAI Registration?</text>
+  
+  <!-- Box 1: Start -->
+  <g transform="translate(150, 100) rotate(-2)">
+    <rect x="0" y="0" width="180" height="60" rx="10" fill="none" stroke="#1f2a44" stroke-width="3"/>
+    <text x="90" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#1f2a44">Need FSSAI Registration</text>
+  </g>
+  
+  <!-- Box 2: Official Portal -->
+  <g transform="translate(50, 220) rotate(1)">
+    <rect x="0" y="0" width="180" height="60" rx="10" fill="none" stroke="#1f2a44" stroke-width="3"/>
+    <text x="90" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#1f2a44">FSSAI Official Portal</text>
+  </g>
+  
+  <!-- Box 3: Government Sites -->
+  <g transform="translate(270, 220) rotate(-1)">
+    <rect x="0" y="0" width="180" height="60" rx="10" fill="none" stroke="#1f2a44" stroke-width="3"/>
+    <text x="90" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#1f2a44">Government Portals</text>
+  </g>
+  
+  <!-- Box 4: Private Services -->
+  <g transform="translate(490, 220) rotate(2)">
+    <rect x="0" y="0" width="180" height="60" rx="10" fill="none" stroke="#1f2a44" stroke-width="3"/>
+    <text x="90" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#1f2a44">Private Service Providers</text>
+  </g>
+  
+  <!-- Box 5: Decision Factors -->
+  <g transform="translate(300, 340) rotate(-1)">
+    <rect x="0" y="0" width="200" height="60" rx="10" fill="none" stroke="#1f2a44" stroke-width="3"/>
+    <text x="100" y="35" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#1f2a44">Compare: Cost, Speed, Support</text>
+  </g>
+  
+  <!-- Arrows -->
+  <!-- From Start to Options -->
+  <path d="M 240 160 Q 240 190 140 220" fill="none" stroke="#1f2a44" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 240 160 Q 240 190 360 220" fill="none" stroke="#1f2a44" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 240 160 Q 240 190 580 220" fill="none" stroke="#1f2a44" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- From Options to Decision -->
+  <path d="M 140 280 Q 220 310 300 340" fill="none" stroke="#1f2a44" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 360 280 Q 380 310 400 340" fill="none" stroke="#1f2a44" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 580 280 Q 460 310 500 340" fill="none" stroke="#1f2a44" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
