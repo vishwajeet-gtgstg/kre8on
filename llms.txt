@@ -1,4 +1,4 @@
-# FilingPro Blog
+# filingpro Blog
 
 > FilingPro is a compliance and company registration service in India under Floydee Solutions Pvt Ltd. Services: company registration (Pvt Ltd, LLP, OPC), GST registration and filing, income tax, TDS, MCA/ROC filings, acco
 
@@ -80,5 +80,5 @@ This blog publishes authoritative, specific answers to the questions buyers ask 
 
 ## Links
 
-- [FilingPro](https://blog.kre8on.com)
+- [filingpro](https://blog.kre8on.com)
 - [Sitemap](https://blog.kre8on.com/sitemap.xml)
